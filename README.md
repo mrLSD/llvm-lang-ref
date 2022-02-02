@@ -1,7 +1,7 @@
-# Official LLVM Language Reference: 14.0.0
+# Official LLVM Language Reference: 15.0.0
 
 ```
-https://raw.githubusercontent.com/llvm/llvm-project/llvmorg-14.0.0/llvm/docs/LangRef.rst
+https://raw.githubusercontent.com/llvm/llvm-project/llvmorg-15.0.0/llvm/docs/LangRef.rst
 ```
 
 ## Links
